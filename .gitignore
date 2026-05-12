@@ -1,5 +1,5 @@
 /.venv
 
-/lab2/images
-
-*.html
+*
+!*/
+!**/*.ipynb
